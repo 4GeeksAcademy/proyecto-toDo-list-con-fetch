@@ -43,7 +43,7 @@ setTodos(newTodos)
 	))}
   </ul>
   <div className="card-footer">
-    Card footer
+    {todos.length} Pendientes
   </div>
 </div>
 </>
